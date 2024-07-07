@@ -1,0 +1,8 @@
+IBDWHPRD =
+  (DESCRIPTION =
+    (ADDRESS = (PROTOCOL = TCP)(HOST = s420e-scan)(PORT = 1521))
+    (CONNECT_DATA =
+      (SERVER = DEDICATED)
+      (SERVICE_NAME = ibdwhprd)
+    )
+  )
